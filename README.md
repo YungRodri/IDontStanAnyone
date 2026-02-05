@@ -12,7 +12,7 @@ Detect who doesn't follow you back without sharing your password with third-part
 * **🔒 Privacy First:** Everything happens in your browser (Client-side). Your credentials never leave your PC.
 * **📊 Local Dashboard:** Modern Dark Mode interface to visualize profiles, photos, mutual followers, and filter results.
 * **💾 Persistence:** Saves your review progress locally so you can continue later.
-* **✨ Rich Data:** Extracts HD profile pictures, follower counts, and verification status.
+* **✨ Rich Data:** Extracts follower counts, and verification status.
 
 ---
 
